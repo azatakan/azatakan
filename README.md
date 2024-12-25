@@ -1,5 +1,8 @@
 
-[![MasterHead](https://www.hypernet.com.tr/dimg/icerik/293732243425900284632.png)
+<p align="center">
+  <img src="https://erphaber.com.tr/wp-content/uploads/2019/02/programminglanguages-600.png" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Azat Akan</h1>
 <h3 align="center">A passionate Mobile developer from Türkiye</h3>
 
